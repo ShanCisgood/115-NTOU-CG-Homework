@@ -26,7 +26,7 @@
 1. **取得專案**：
    將此儲存庫 clone 到您的電腦上：
    ```bash
-   git clone <你的_repo_網址>
+   git clone https://github.com/ShanCisgood/115-NTOU-CG-Homework.git
    ```
 2. **開啟解決方案**：
    - 進入想要查看的作業資料夾（例如 `01257121_HW1/`，接著進入內部的專案目錄）。
